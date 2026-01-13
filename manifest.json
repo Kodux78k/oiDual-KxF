@@ -1,11 +1,11 @@
 {
   "name": "DUAL // UNIFIED · OS",
-  "short_name": "DUAL // FxK",
+  "short_name": "DUAL // KxF",
   "description": "DUAL Unified — Code Vault & Runtime Environment",
   "lang": "pt-BR",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#000",
   "theme_color": "#020202",
   "orientation": "any",
   "icons": [
